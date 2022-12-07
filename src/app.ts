@@ -8,8 +8,6 @@ dotenv.config();
 mongoConnect;
 app.use(express.json());
 
-console.log(process.env.DB_USER);
-
-app.get("/", router);
+app.use("/", router);
 
 export default app;
