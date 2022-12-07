@@ -23,17 +23,25 @@ $npm install
 $npm run start:dev
 ```
 
-## 🚪 PORTAS/ACESSO
+## 🚪 Portas/acesso
 
 ```
 Aplicação                  -> http://localhost:3000
 Conexão com Banco de dados -> http://localhost:5000
 ```
 
+## 💡 Sugestões
+
+É sugerido que se use o software ```Insomnia``` para efetuar as requisições na API. O link de download está logo abaixo, na sessão de downloads.
+
 ## 🛠️ Construído com
 
 * [Node.js](https://nodejs.org/en/) - Plataforma utilizada para o desenvolvimento com a linguagem.
 * [Typescript](https://www.typescriptlang.org) - Utilizado como linguagem principal para desenvolvimento do projeto.
+
+## 👇 Downloads
+
+* [Insomnia](https://insomnia.rest/download) - Software utilizado para efetuar requisições REST.
 
 ## ✒️ Autor
 
